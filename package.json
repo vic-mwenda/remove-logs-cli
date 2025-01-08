@@ -18,13 +18,13 @@
     "@babel/generator": "^7.26.3",
     "@babel/parser": "^7.26.3",
     "@babel/traverse": "^7.26.4",
-    "chalk": "^5.4.1",
+    "chalk": "^4.1.2",
     "cli-progress": "^3.12.0",
     "commander": "^13.0.0",
     "ora": "^8.1.1",
     "readline": "^1.3.0"
   },
   "bin": {
-    "remove-logs": "./index.js"
+    "remove-logs": "./src/index.js"
   }
 }
