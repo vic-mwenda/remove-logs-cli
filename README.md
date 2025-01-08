@@ -26,7 +26,7 @@ A language-agnostic tool for removing logging statements from your source code. 
 
 npm install -g remove-logs-cli
 
-# Or install locally in your project
+## Or install locally in your project
 npm install --save-dev remove-logs-cli
 
 
